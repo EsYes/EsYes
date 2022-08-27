@@ -1,7 +1,5 @@
-<p align="center">+-✨-+</p>
 <h1 align="center">😄 Hi there, I'm <a href="https://wikilys.net/" target="_blank">Alexander L.</a> 👋</h1>
-<p align="center">+✨+</p>
-  
+
 <!--
 **EsYes/EsYes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
